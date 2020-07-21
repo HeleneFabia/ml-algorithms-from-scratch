@@ -1,5 +1,5 @@
 ml-algorithms-from-scratch
-# Project #4: Building Machine Learning algorithms from scratch with NumPy 
+# Project #4: Building Machine Learning algorithms from scratch 
 
 This repository includes several notebooks in which I built several different ML algorithms from scratch with NumPy, including: 
 - Linear Regression:
