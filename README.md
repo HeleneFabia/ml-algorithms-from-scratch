@@ -18,6 +18,8 @@ These notebooks are assignments that form part of the course Machine Learning by
 
 ==================== YOUR CODE HERE ====================
 
+
 Machine Learning by Andrew Ng: https://www.coursera.org/learn/machine-learning?#about
+
 Assignments in Python: https://github.com/dibgerge/ml-coursera-python-assignments
 
