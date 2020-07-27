@@ -15,6 +15,7 @@ This repository includes several notebooks in which I built several different ML
 - Support Vector Machines
 - K-means Clustering
 - Principal Component Analysis
+- Anomaly Detection
 
 These notebooks are assignments that form part of the course Machine Learning by Andrew Ng, which I concluded in Augsut, 2020. While the notebooks already included some instructions, formulae and code, the code I wrote myself can be found after the following line in each code cell: 
 
