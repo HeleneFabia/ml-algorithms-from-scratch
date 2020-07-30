@@ -1,23 +1,25 @@
 ml-algorithms-from-scratch
 # Project #4: Building Machine Learning algorithms from scratch 
 
-This repository includes several notebooks in which I built several different ML algorithms from scratch with NumPy, including: 
-- Linear Regression:
-  - with one varibale
-  - with multiple variables
-  - regularization
-  - normalization
-- Logistic Regression
-  - binary classes
-  - multi-class classification
-  - regularization
-- Neural Networks
-- Support Vector Machines
-- K-means Clustering
-- Principal Component Analysis
-- Anomaly Detection
+This repository includes several notebooks in which I built several different ML algorithms with NumPy, including: 
 
-These notebooks are assignments that form part of the course Machine Learning by Andrew Ng, which I concluded in Augsut, 2020. While the notebooks already included some instructions, formulae and code, the code I wrote myself can be found after the following line in each code cell: 
+- Linear Regression:
+  - with one varibale (<a href="https://github.com/HeleneFabia/ml-algorithms-from-scratch/blob/master/1-linear-regression.ipynb">Ex. 1</a>)
+  - with multiple variables () 
+  - regularization ()
+  - normalization ()
+- Logistic Regression
+  - binary classes ()
+  - multi-class classification ()
+  - regularization ()
+- Neural Networks ()
+- Support Vector Machines ()
+- K-means Clustering ()
+- Principal Component Analysis ()
+- Anomaly Detection ()
+- Recommender Systems ()
+
+These notebooks are assignments that form part of the course Machine Learning by Andrew Ng, which I concluded in July, 2020. While the notebooks already included some instructions, formulae and code, the code I wrote myself can be found after the following line in each code cell: 
 
 ==================== YOUR CODE HERE ====================
 
