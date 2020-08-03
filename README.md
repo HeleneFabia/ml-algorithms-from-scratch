@@ -26,7 +26,7 @@ These notebooks are assignments that form part of the course <a href="https://ww
 ==================== YOUR CODE HERE ====================
 
 
-Completing the assignments was a steep learning curve for me, since I thoroughly engaged with different machine learning algorithms. I did so by converting the theoretical concepts of the course mentioned above into code without using any already existing machine learning libraries. This also allowed me to strengthen my NumPy and Linear Algebra skills, as well as to practice looking for help and guidance whenever I got stuck with an exercise. 
+Completing the assignments was a steep learning curve for me. Converting the theoretical concepts of the course into code without using any already existing ML libraries led me to thoroughly engage with different ML algorithms. This also allowed me to strengthen my NumPy and Linear Algebra skills, as well as to practice looking for help and guidance whenever I got stuck with an exercise. 
 
 Thank you to Gerges Dib for providing <a href="https://github.com/dibgerge/ml-coursera-python-assignments">the course assignments in Python</a>
 
