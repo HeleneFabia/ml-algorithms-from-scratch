@@ -1,5 +1,5 @@
 ml-algorithms-from-scratch
-# Project #4: Building Machine Learning algorithms from scratch 
+# Building Machine Learning algorithms from scratch 
 
 <p align="center">
   <img width="300" height="250" src="https://cdn.pixabay.com/photo/2020/04/22/09/38/circuits-5076887_960_720.png">
