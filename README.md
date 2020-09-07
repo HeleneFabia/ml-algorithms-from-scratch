@@ -1,4 +1,3 @@
-ml-algorithms-from-scratch
 # Building Machine Learning algorithms from scratch 
 
 <p align="center">
